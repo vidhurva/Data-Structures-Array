@@ -1,0 +1,22 @@
+// Vidhur Vashisht
+// Data Structures
+// 2/9/18
+// Sample Output
+
+[vvashisht@erdos hw1]$ ./a.out
+Original Array: {2,6,1,4,2,2,5,4,}
+New Array:      {2,4,2,2,5,2,6,4,}
+
+prices = {2,6,1,4,2,2,5,4,}
+Max difference =6 - 1 = 5
+
+Original Array: {2,6,1,4,2,2,5,4,}
+New Array:      {2,6,1,4,2,2,5,4,}
+
+arr1[] =   1  3  4  5
+arr2[] =   2  4  6  8
+arr3[] = 1 2 3 4 4 5 6 8 
+
+{2,6,1,4,2,2,5,4,}
+There is no majority element
+[vvashisht@erdos hw1]$ 
