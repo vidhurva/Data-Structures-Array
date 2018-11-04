@@ -1,2 +1,0 @@
-letjna
-//atjiaejt
